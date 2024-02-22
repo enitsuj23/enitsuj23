@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Justine 🍉
+I'm studying at EPFL in the chemistry section ⚗️🧪🥼⚛️
 
 <!--
 **enitsuj23/enitsuj23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
